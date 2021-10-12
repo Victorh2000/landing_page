@@ -145,6 +145,7 @@ ul{
     padding: 0px 128px;
 }
 .somequote p {
+    font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-style: italic; 
     font-weight: 100; 
